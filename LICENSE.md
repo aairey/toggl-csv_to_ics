@@ -1,13 +1,16 @@
 # toggl-csv_to_ics
 
-"THE BEER-WARE LICENSE" (Revision 42): [aairey](https://github.com/aairey) wrote this file.
+```
+"THE BEER-WARE LICENSE" (Revision 42): Andy Airey wrote this file.
 As long as you retain this notice you can do whatever you want with this stuff. 
 If we meet some day, and you think this stuff is worth it, you can buy me a beer in return.
 
 Andy Airey
+```
 
 # convert.py
 
+```
 https://github.com/albertyw/csv-to-ical
 
 Copyright (C) 2013 Albert Wang
@@ -17,10 +20,11 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
+```
 
 # iCalendar
 
+```
 License
 =======
 
@@ -47,3 +51,5 @@ SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
 CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
 OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+```
+
