@@ -1,5 +1,7 @@
 # toggl-csv_to_ics
 
+[![Code Climate](https://codeclimate.com/github/aairey/toggl-csv_to_ics/badges/gpa.svg)](https://codeclimate.com/github/aairey/toggl-csv_to_ics)
+
 This Python script provides a way to convert an export of [Toggl](http://www.toggl.com/) time entries in CSV format to ICS.
 Allowing you to import it into any calendar application.
 
